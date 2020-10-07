@@ -10,7 +10,7 @@
 
 ## This app is currently hosted at
 
-### [https://toplinks.vercel.app/](https://toplinks.vercel.app/)
+### [https://twit-toplinks.vercel.app/](https://twit-toplinks.vercel.app/)
 
 ## This repo is available at
 

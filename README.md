@@ -1,4 +1,4 @@
-# TopLinks App
+# twit-toplinks App
 
 ## To install the dependencies, run the below command,
 

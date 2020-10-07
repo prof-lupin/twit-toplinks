@@ -1,0 +1,28 @@
+.home-page {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100%;
+
+  .home-title {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .reload-tweets {
+    position: fixed;
+    bottom: 20px;
+    z-index: 2;
+    left: 50%;
+    transform: translate(-50%, 0);
+    height: 55px;
+  }
+
+  .tweets-container {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    margin-bottom: 60px;
+  }
+}

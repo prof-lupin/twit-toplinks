@@ -60,7 +60,7 @@ const LandingPage = () => {
   };
   return (
     <div className="landing-page">
-      <h1 className="title">twit-toplinks App!</h1>
+      <h1 className="title">Twit-topLinks App!</h1>
       <Button
         variant="contained"
         color="primary"

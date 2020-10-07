@@ -2,11 +2,11 @@
 
 ## To install the dependencies, run the below command,
 
-### `yarn`
+### `npm install`
 
 ## To run locally, run the below command
 
-### `yarn start`
+### `npm run start`
 
 ## This app is currently hosted at
 
@@ -14,4 +14,4 @@
 
 ## This repo is available at
 
-### [https://github.com/sharcastic/TopLinks](https://github.com/sharcastic/TopLinks)
+### [https://github.com/prof-lupin/twit-toplinks](https://github.com/prof-lupin/twit-toplinks)

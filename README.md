@@ -1,5 +1,7 @@
 # twit-toplinks App
 
+![Landing Page](https://github.com/prof-lupin/twit-toplinks/blob/master/screenshots/landing%20page.png)
+
 ## To install the dependencies, run the below command,
 
 ### `npm install`

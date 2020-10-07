@@ -8,9 +8,10 @@
 
 ### `npm run start`
 
-## This app is currently hosted at
+## This app is currently hosted at the following links
 
 ### [https://twit-toplinks.vercel.app/](https://twit-toplinks.vercel.app/)
+### [https://twit-toplinks.prof-lupin.vercel.app/](https://twit-toplinks.prof-lupin.vercel.app/)
 
 ## This repo is available at
 

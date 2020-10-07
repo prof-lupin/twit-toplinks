@@ -2,11 +2,11 @@
 
 ## To install the dependencies, run the below command,
 
-### `yarn`
+### `npm install`
 
 ## To run locally, run the below command
 
-### `yarn start`
+### `npm run start`
 
 ## This app is currently hosted at
 

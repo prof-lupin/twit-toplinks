@@ -14,4 +14,4 @@
 
 ## This repo is available at
 
-### [https://github.com/sharcastic/TopLinks](https://github.com/sharcastic/TopLinks)
+### [https://github.com/prof-lupin/twit-toplinks](https://github.com/prof-lupin/twit-toplinks)

@@ -1,6 +1,6 @@
-# twit-toplinks App
+# Twit-toplinks App
 
-![Landing Page](https://github.com/prof-lupin/twit-toplinks/blob/master/screenshots/landing%20page.png)
+![Landing Page](https://github.com/prof-lupin/twit-toplinks/blob/master/screenshots/landing%20page(1).png)
 
 ## To install the dependencies, run the below command,
 
